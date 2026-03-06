@@ -118,6 +118,12 @@ mddr-home-lab/
 
 ---
 
+## Lab Screenshots
+
+### Microsoft Sentinel — Live Security Events
+![Sentinel Logs](sentinel-live-logs.png)
+*Windows security events flowing from corp.local AD environment into Microsoft Sentinel via Azure Monitor Agent*
+
 ## Author
 
 Jonathan Corbin — Field Tech transitioning to cybersecurity
